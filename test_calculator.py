@@ -1,12 +1,12 @@
-import unittest
-from calculator import *
+
 """
 https://github.com/Amanda-alm/lab11-AA-ST
 Partner 1: Amanda Almeida
 Partner 2: Spencer Treadway
 
 """
-
+import unittest
+from calculator imp
 class TestCalculator(unittest.TestCase):
     ######### Partner 2
     # def test_add(self): # 3 assertions
