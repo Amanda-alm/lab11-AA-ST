@@ -25,7 +25,7 @@ def multiply(a,b): return a * b
 
 def logarithm(a, b): return math.log(b, a) # use math library/raise ValueError
 
-def exponent(a,b): return ab
+def exponent(a,b): return a ** b
 
 def sub(a, b):
     return a - b
