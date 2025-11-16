@@ -1,6 +1,7 @@
-"""https://github.com/Amanda-alm/lab11-AA-ST
-Partner 1: Amanda Almeida
-Partner 2: Spencer Treadway
+#https://github.com/Amanda-alm/lab11-AA-ST
+#Partner 1: Amanda Almeida
+#Partner 2: Spencer Treadway
+"""
 calculator.py
 - Defines functions used to create a simple calculator
 
