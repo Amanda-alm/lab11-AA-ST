@@ -10,14 +10,11 @@ Partner 2: Spencer Treadway
 """
 import math
 
-<<<<<<< HEAD
 def add(a, b): 
     return a + b
-=======
 def square_root(a): return math.sqrt(a) # raise ValueError if a < 0
 
 def hypotenuse(a,b): return math.hypot(a,b) #can have neg nums
-
 
 # First example
 def add(a, b): 
@@ -26,12 +23,9 @@ def subtract(a,b): return a - b
 
 def multiply(a,b): return a * b
 
-def divide(a, b): return b / a   # raise ZeroDivisionError if a == 0
-
 def logarithm(a, b): return math.log(b, a) # use math library/raise ValueError
 
 def exponent(a,b): return ab
->>>>>>> 381a2f7f3f46872190a8c8a35145af56d03832dd
 
 def sub(a, b):
     return a - b
