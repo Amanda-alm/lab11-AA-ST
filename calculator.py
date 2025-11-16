@@ -4,8 +4,28 @@ calculator.py
 
 One function per operation, in order.
 """
-# First example
+import math
+
 def add(a, b): 
-    pass
+    return a + b
 
+def sub(a, b):
+    return a - b
 
+def mul(a, b):
+    return a * b
+
+def div(a, b):
+    if a == 0:
+        raise ZeroDivisionError()
+    return b / a
+
+def log(a, b):
+    if a <= 0 or b <= 0:
+        raise ValueError("log(a, b) requires a > 0 and b > 0")
+    if a == 1:
+        raise ValueError("log base 1 is undefined")
+    return math.log(b) / math.log(a)
+
+def exp(a, b):
+    return a ** b
