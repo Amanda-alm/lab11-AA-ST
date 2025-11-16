@@ -1,12 +1,12 @@
-"""
+"""https://github.com/Amanda-alm/lab11-AA-ST
+Partner 1: Amanda Almeida
+Partner 2: Spencer Treadway
 calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
 
-https://github.com/Amanda-alm/lab11-AA-ST
-Partner 1: Amanda Almeida
-Partner 2: Spencer Treadway
+
 """
 import math
 
