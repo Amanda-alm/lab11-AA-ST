@@ -18,7 +18,7 @@ def hypotenuse(a,b): return math.hypot(a,b) #can have neg nums
 
 # First example
 def add(a, b): 
-    a + b
+    return a + b
 def subtract(a,b): return a - b
 
 def multiply(a,b): return a * b
